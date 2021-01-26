@@ -21,3 +21,19 @@ http://172.16.50.22/live/sambd1001/index.m3u8
 http://103.49.168.171:8081/live/tsports/chunks.m3u8 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLA"
 http://otv.ftpbd.net/streams/102/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="SPORTS",TEN 1
+http://otv.ftpbd.net/streams/105/index.m3u8
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
+http://otv.ftpbd.net/streams/106/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201810/zee-bangla-logo.jpg" group-title="INDIAN BANGLA"ZEE BANGLA
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
+http://otv.ftpbd.net/streams/108/index.m3u8
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="MOVIE",SONY MAX
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="INFO",NAT GEO
+http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORTS",TEN 2
+http://otv.ftpbd.net/streams/112/index.m3u8
