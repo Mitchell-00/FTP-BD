@@ -7,3 +7,11 @@ http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",Sony SIX HD
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",PTV SPORTS
+http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",CHANNEL 24
+http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",CHANNEL 9
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",ZEE TV
+http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
