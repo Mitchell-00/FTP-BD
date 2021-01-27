@@ -111,6 +111,8 @@ http://otv.ftpbd.net/streams/115/index.m3u8
 http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE",STAR MOVIES
 http://otv.ftpbd.net/streams/125/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.adgully.com/img/800/201910/flix-logo_2.png.jpg" group-title="MOVIE",AND FLIX
+https://z5ams.akamaized.net/andflixhd/index.m3u8?hdnts=st=1611746133~exp=1611749133~acl=/*~hmac=bd8fa874516140dfac1f21622f54348e7933082f25034d70370ce13cd54ed17d
 #EXTINF:-1, JALSHA MOVIES
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
 #EXTINF:-1, ZEE CENEMA 
