@@ -32,6 +32,8 @@ http://otv.ftpbd.net/streams/112/index.m3u8
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
+http://otv.ftpbd.net/streams/116/index.m3u8
 
 ///////Bangla
 
@@ -39,6 +41,8 @@ http://otv.ftpbd.net/streams/114/index.m3u8
 http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9
 http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR
+http://otv.ftpbd.net/streams/128/index.m3u8
 
 //////Hindi
 
@@ -51,32 +55,31 @@ http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/jalsha-movies.png" group-title="MOVIE",JALSHA MOVIES
 http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="MOVIE",UTV ACTION
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE",STAR MOVIES
+http://otv.ftpbd.net/streams/125/index.m3u8
 
 //////Info
 
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="INFO",NAT GEO
 http://otv.ftpbd.net/streams/110/index.m3u8
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="INFO",DISCOVERY
+http://otv.ftpbd.net/streams/121/index.m3u8
+
 
 ///////Indian Bangla
 #EXTINF:-1 tvg-logo="https://megaflix.tv/uploads/tv_image/zee-bangla.png" group-title="INDIAN BANGLA ",ZEE BANGLA
 http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",SONY AATH
+http://otv.ftpbd.net/streams/127/index.m3u8
 
+//////Cartoon
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
-http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLA",DURONTO
-http://otv.ftpbd.net/streams/119/index.m3u8
-#EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="INFO",DISCOVERY
-http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.hollywoodreporter.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="CARTOON",DISNEY
 http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpgAVgr.jpg" group-title="CARTOON",CARTOON NETWORK
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="MOVIE",UTV ACTION
-http://otv.ftpbd.net/streams/124/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/1200px-STAR_Movies_logo.svg.png" group-title="MOVIE",STAR MOVIES
-http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" group-title="INDIAN BANGLA",SONY AATH
-http://otv.ftpbd.net/streams/127/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR
-http://otv.ftpbd.net/streams/128/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="CARTOON",DURONTO
+http://otv.ftpbd.net/streams/119/index.m3u8
+
