@@ -1,21 +1,17 @@
 #EXTM3U
+
+////////Sports
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cCd255N.jpg" group-title="SPORTS",RTA Sport
 https://hls.rtasports.live/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nagorik.com/wp-content/uploads/2018/03/Nagorik-Online.jpg" group-title="SPORTS",Nagorik TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-Sports
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV SPORTS
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
-http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9
-http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
-http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",AKASH TV
 http://172.16.50.22/live/sambd1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
@@ -30,20 +26,42 @@ http://otv.ftpbd.net/streams/105/index.m3u8
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
 http://otv.ftpbd.net/streams/108/index.m3u8
-#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="MOVIE",SONY MAX
-http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="INFO",NAT GEO
-http://otv.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORTS",TEN 2
 http://otv.ftpbd.net/streams/112/index.m3u8
-#EXTINF:-1 tvg-logo="https://megaflix.tv/uploads/tv_image/zee-bangla.png" group-title="INDIAN BANGLA ",ZEE BANGLA
-http://otv.ftpbd.net/streams/107/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://otv.ftpbd.net/streams/113/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://otv.ftpbd.net/streams/114/index.m3u8
+
+///////Bangla
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/1200px-Channel24logo.svg.png" group-title="BANGLA",CHANNEL 24
+http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLA",CHANNEL 9
+http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
+
+//////Hindi
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
+http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+
+///////Movie
+
+#EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="MOVIE",SONY MAX
+http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/jalsha-movies.png" group-title="MOVIE",JALSHA MOVIES
 http://otv.ftpbd.net/streams/115/index.m3u8
+
+//////Info
+
+#EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="INFO",NAT GEO
+http://otv.ftpbd.net/streams/110/index.m3u8
+
+///////Indian Bangla
+#EXTINF:-1 tvg-logo="https://megaflix.tv/uploads/tv_image/zee-bangla.png" group-title="INDIAN BANGLA ",ZEE BANGLA
+http://otv.ftpbd.net/streams/107/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
 http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="BANGLA",DURONTO
