@@ -51,7 +51,7 @@ http://otv.ftpbd.net/streams/119/index.m3u8
 http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.hollywoodreporter.com/sites/default/files/2014/05/disney_channel_logo_a_l.jpg" group-title="CARTOON",DISNEY
 http://otv.ftpbd.net/streams/122/index.m3u8
-#EXTINF:-1 tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/edf2672f-a8f4-4991-b727-fa59a86f45ce/d4ctokr-088be8e3-53cc-4b8c-91a5-513000f2a05f.png" group-title="CARTOON",CARTOON NETWORK
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/9c/cf/91/9ccf9162b97e6eb05a32d47a9809bac0.jpg" group-title="CARTOON",CARTOON NETWORK
 http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="MOVIE",UTV ACTION
 http://otv.ftpbd.net/streams/124/index.m3u8
