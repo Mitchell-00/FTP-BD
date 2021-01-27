@@ -60,7 +60,7 @@ http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR
 http://otv.ftpbd.net/streams/128/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",CHANNEL I
-http://edge4.bioscopelive.com/hls/V6Ax51YjIJx/jDGFc91Jn-xxX4AnNmYZHg/1611790376/channel_i_hi/index.m3u8
+https://edge4.bioscopelive.com/hls/V6Ax51YjIJx/jDGFc91Jn-xxX4AnNmYZHg/1611790376/channel_i_hi/index.m3u8
 #EXTINF:-1,Maasranga TV 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
 #EXTINF:-1,Ekattor TV 
