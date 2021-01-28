@@ -59,8 +59,8 @@ http://103.102.27.172:6464/Channel-5/tracks-v1a1/mono.m3u8
 http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",EKATTOR
 http://otv.ftpbd.net/streams/128/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png" group-title="BANGLA",CHANNEL I
-https://edge4.bioscopelive.com/hls/V6Ax51YjIJx/ayQkmu-DX0t7pbnWTz3d5w/1611824240/channel_i_hi/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ATN BANGLA
+http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8?nimblesessionid=196578&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIxIDE6NTQ6MDggUE0maGFzaF92YWx1ZT1qN3drckxSSTlkZStQWGNsOWl1QTl3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1,Maasranga TV 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
 #EXTINF:-1,Ekattor TV 
@@ -120,7 +120,6 @@ http://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1611837904~exp=16118409
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="MOVIE",& PRIVE HD
 https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1611747206~exp=1611750206~acl=/*~hmac=8630f92780aa52cbbc55e6531c77374ef645017781335e36c1667526aaf19935
 EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/07/andxplorHD-Logo_4.jpg" group-title="MOVIE",&XPLOR HD
-https://z5ams.akamaized.net/out/v1/525714a3beef4b6a8eac1ca96ffd8f88/index.m3u8?hdnts=st=1611747405~exp=1611750405~acl=/*~hmac=e4b90fbb1582d174ee50d0fd0f46b1cdaf1b81400aa67f29bfb675029e625b14
 #EXTINF:-1, JALSHA MOVIES
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/25.m3u8
 #EXTINF:-1, ZEE CENEMA 
