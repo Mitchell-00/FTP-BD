@@ -116,7 +116,7 @@ http://otv.ftpbd.net/streams/125/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/532-5320038_zee-cinema.png" group-title="MOVIE",ZEE CENEMA HD
 http://cv.khushitv.xyz/channels.php?c=zcinemahd&m3u8
 #EXTINF:-1 tvg-logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/and-pictures-hd-logo-300x300.jpg" group-title="MOVIE",& Pictures HD
-https://z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1611746702~exp=1611749702~acl=/*~hmac=b1bc9d633f1eaffc14b43c579cb36bd21ac3c3d98334ee3495a7de21e53859d6
+z5ams.akamaized.net/andpicshd/index.m3u8?hdnts=st=1611829115~exp=1611832115~acl=/*~hmac=fe872340b6c0abc0f49f44d240c103e03af7905174309acacf88aa3c4a8a1b77
 #EXTINF:-1 tvg-logo="https://alltimetrends.com/wp-content/uploads/2020/07/and-prive-hd.jpg" group-title="MOVIE",& PRIVE HD
 https://z5ams.akamaized.net/andprivehd/index.m3u8?hdnts=st=1611747206~exp=1611750206~acl=/*~hmac=8630f92780aa52cbbc55e6531c77374ef645017781335e36c1667526aaf19935
 EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/07/andxplorHD-Logo_4.jpg" group-title="MOVIE",&XPLOR HD
