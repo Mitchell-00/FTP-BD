@@ -47,14 +47,15 @@ http://103.102.27.172:6464/Channel-6/tracks-v1a1/mono.m3u8
 http://otv.ftpbd.net/streams/128/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ATN BANGLA
 http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8?nimblesessionid=196578&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIxIDE6NTQ6MDggUE0maGFzaF92YWx1ZT1qN3drckxSSTlkZStQWGNsOWl1QTl3PT0mdmFsaWRtaW51dGVzPTI=
-#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ATN BANGLA
-https://tempdot.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ANANDA TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 //////Hindi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
 http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
+https://live.bongobd.com/hls/m06bcc3go5tGBVCt3eBJnQ/1612816941/zee_bangla_cinema_hi/index.m3u8
 ///////Movie
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="MOVIE",SONY MAX
