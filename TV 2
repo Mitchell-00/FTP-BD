@@ -50,7 +50,7 @@ http://otv.ftpbd.net/streams/128/index.m3u8
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ATN BANGLA
 http://103.49.168.171:8081/ebox/bd_atn_bangla/chunks.m3u8?nimblesessionid=196578&wmsAuthSign=c2VydmVyX3RpbWU9MS8yOC8yMDIxIDE6NTQ6MDggUE0maGFzaF92YWx1ZT1qN3drckxSSTlkZStQWGNsOWl1QTl3PT0mdmFsaWRtaW51dGVzPTI=
 #EXTINF:-1 tvg-logo="https://tvadvertising.co.uk/wp-content/uploads/2019/11/139_image.png" group-title="BANGLA",ANANDA TV
-http://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 
 //////Hindi
 
