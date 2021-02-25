@@ -36,8 +36,16 @@ http://otv.ftpbd.net/streams/113/index.m3u8
 http://otv.ftpbd.net/streams/114/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/847340581273559041/me4e6VSO_400x400.jpg" group-title="SPORTS",WILLOW TV
-http://51.159.4.21:3135/Cric/8/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
+http://103.80.70.59/hls/stream15.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
+http://103.80.70.59/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
+http://103.80.70.59/hls/stream10.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV SPORTS
+http://103.80.70.59/hls/stream11.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
+http://103.80.70.59/hls/stream12.m3u8
 
 ///////Bangla
 
