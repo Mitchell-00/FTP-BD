@@ -56,6 +56,8 @@ http://10.16.100.201/hindi/sportsT.m3u8
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+#EXTINF:-1 tvg-logo="https://www.meljones.com.au/wp-content/uploads/2019/06/Fox-cricket-logo-sq.png" group-title="SPORTS",FOX SPORTS HD
+http://a2.okbetter.club:8880/wh12m3101/XRCKYwP3Lw/61094
 
 ///////Bangla
 
