@@ -47,13 +47,13 @@ http://103.80.70.59/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.80.70.59/hls/stream12.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
-http://103.102.136.106:8080/cmcltv/tsports.m3u8
+http://172.22.22.76/live/feed1002/index.m3u8
 #EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",AKASH TV
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
 http://10.16.100.201/hindi/sportsT.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",Gazi TV
+http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORTS",TEN 2
