@@ -2,38 +2,20 @@
 
 ////////Sports
 
-#EXTINF:-1 tvg-logo="https://i1.wp.com/nagorik.com/wp-content/uploads/2018/03/Nagorik-Online.jpg" group-title="SPORTS",Nagorik TV
+#EXTINF:-1 tvg-logo="https://i1.wp.com/nagorik.com/wp-content/uploads/2018/03/Nagorik-Online.jpg" group-title="SPORTS",GAZI TV
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
 http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony TEN 2
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV SPORTS
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", SPORTS TV
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",AKASH TV
-http://172.16.50.22/live/sambd1001/index.m3u8
-#EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",AKASH TV
-http://mtv.sports.bdfun.club/live/my-stream-key/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/Channel9_bd.svg/1200px-Channel9_bd.svg.png" group-title="BANGLA"
-http://otv.ftpbd.net/streams/102/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
 http://103.81.104.118/hls/stersports1hd.m3u8
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="SPORTS",TEN 1
-http://otv.ftpbd.net/streams/105/index.m3u8
-#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
-http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
-http://otv.ftpbd.net/streams/108/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORTS",TEN 2
-http://otv.ftpbd.net/streams/112/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
 http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
-#EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
-http://otv.ftpbd.net/streams/116/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 
 http://103.80.70.59/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
