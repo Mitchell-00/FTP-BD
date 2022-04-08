@@ -3,9 +3,9 @@
 ////////Sports
 
 #EXTINF:-1 tvg-logo="https://i1.wp.com/nagorik.com/wp-content/uploads/2018/03/Nagorik-Online.jpg" group-title="SPORTS",GAZI TV
-http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/Gazi-TV.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
-http://103.102.27.172:6464/Channel-2/tracks-v1a1/mono.m3u8
+http://103.55.144.46/hls/t-sports.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony TEN 2
 http://103.102.27.172:6464/Channel-3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", SPORTS TV
@@ -13,15 +13,15 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",T SPORTS
 http://10.16.100.203:8082/bangla/TH_tsports_dish.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
-http://103.81.104.118/hls/stersports1hd.m3u8
+http://103.55.144.46/hls/stersports1hd.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 HD
-http://103.81.104.118/hls/Star_Sport_Select1HD.m3u8
+http://103.55.144.46/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 
 http://103.80.70.59/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/48/db/34/48db34c44ade7b2b67c9d26bfcde8054.png" group-title="SPORTS",STAR SPORTS 2
 http://103.81.104.118/hls/starsports2.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SIX HD
-http://103.80.70.59/hls/stream10.m3u8
+http://103.55.144.46/hls/sonysix.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS",PTV SPORTS
 http://103.80.70.59/hls/stream11.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",STAR SPORTS SELECT 1 
@@ -35,7 +35,7 @@ http://10.16.100.201/hindi/sportsT.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",Gazi TV
 http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+http://103.55.144.46/hls/select2.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SPORTS",TEN 2
 http://175.41.46.16:8081/hls/2.m3u8
 
