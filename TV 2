@@ -28,18 +28,7 @@ http://172.22.22.76/live/feed1002/index.m3u8
 http://172.22.22.76/live/feed1003/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://103.55.144.46/hls/select2.m3u8
-#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="SPORTS",TEN SPORTS
-http://103.55.144.46/hls/ten.m3u8
-#EXTINF:-1 tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png" group-title="SPORTS",SKY CRICKET
-http://dds.oncast.me:1934/dlive/sp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",WILLOW TV
-http://dds.oncast.me:1934/dlive/sp6.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",SKY MIX
-http://dds.oncast.me:1934/dlive/sp10.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",SUPER SPORTS
-http://dds.oncast.me:1934/dlive/ch9.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://static.toiimg.com/thumb/msid-80981860,width-1200,height-900,resizemode-4/.jpg" group-title="SPORTS",BEIN SPORTS
-http://dds.oncast.me:1934/dlive/sp9.stream/chunks.m3u8
+
 ///////Bangla
 
 
