@@ -23,9 +23,9 @@ http://103.55.144.46/hls/ptv.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",Sony TEN 3
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",MZ SPORTS 1
-http://172.22.22.76/live/feed1002/index.m3u8
+http://103.158.2.18/iTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",MZ SPORTS 2
-http://172.22.22.76/live/feed1003/index.m3u8
+http://103.158.2.10:1935/live/ch-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://103.55.144.46/hls/select2.m3u8
 
