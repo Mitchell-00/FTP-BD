@@ -1,14 +1,14 @@
 #EXTM3U
-#EXTINF:-1,Maasranga TV 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/1.m3u8
-#EXTINF:-1,Ekattor TV 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/2.m3u8
-#EXTINF:-1,Nagorik TV 
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/3.m3u8
-#EXTINF:-1,Channel i
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/4.m3u8
-#EXTINF:-1,Deepto TV
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/5.m3u8
+#EXTINF:-1,TEN SPORTS
+http://xtream.efiberbd.net:25461/live/mkaua/stream/1.m3u8
+#EXTINF:-1,PTV SPORTS 
+hhttp://xtream.efiberbd.net:25461/live/mkaua/stream/2.m3u8
+#EXTINF:-1,T SPORTS 
+http://xtream.efiberbd.net:25461/live/mkaua/stream/3.m3u8
+#EXTINF:-1,G TV
+http://xtream.efiberbd.net:25461/live/mkaua/stream/4.m3u8
+#EXTINF:-1,ZEE BANGLA
+http://xtream.efiberbd.net:25461/live/mkaua/stream/5.m3u8
 #EXTINF:-1,GTV 
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.m3u8
 #EXTINF:-1,Channel 9
