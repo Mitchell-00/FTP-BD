@@ -6,6 +6,8 @@
 http://test-otv1.ftpbd.net/streams/110/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
 http://175.41.46.16:8081/hls/4.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
+http://tv.gundapanda.com:100/hls/netscope-1.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SPORTS 5
 http://175.41.46.16:8081/hls/1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", Sony SPORTS 1
@@ -26,6 +28,8 @@ http://103.55.144.46/hls/sonyten3.m3u8
 http://103.158.2.18/iTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",MZ SPORTS 2
 http://103.158.2.10:1935/live/ch-1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",TEN SPORTS
+http://tv.gundapanda.com:100/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://103.55.144.46/hls/select2.m3u8
 
