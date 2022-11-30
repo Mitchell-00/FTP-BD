@@ -3,9 +3,9 @@
 ////////Sports
 
 #EXTINF:-1 tvg-logo="https://tvbox-app.com/wp-content/uploads/2022/10/tofee-download-apk.jpg" group-title="SPORTS",TOFFEE 1
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_1000.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-1/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",TOFFEE 2
-https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_1000.m3u8
+https://mprod-cdn.toffeelive.com/toffee/fifa-free/match-2/master_850.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",TOFFEE PREMIUM 1
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",TOFFEE PREMIUM 2
