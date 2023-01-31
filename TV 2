@@ -35,7 +35,7 @@ http://103.158.2.10:1935/live/ch-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",TEN SPORTS
 http://tv.gundapanda.com:100/hls/4.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
-http://103.55.144.46/hls/select2.m3u8
+https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_19.m3u8
 
 ////////SONY  NETWORK
 
