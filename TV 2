@@ -468,7 +468,7 @@ EXTINF:-1 tvg-logo="https://bestmediainfo.com/wp-content/uploads/2019/07/andxplo
 #EXTINF:-1 tvg-logo="https://variety.com/wp-content/uploads/2020/01/nat-geo-logo.jpg" group-title="INFO",NAT GEO
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i1.wp.com/www.broadbandtvnews.com/wp-content/uploads/2019/11/Discovery.jpg" group-title="INFO",DISCOVERY
-http://103.113.103.249:18001/play/a01e/index.m3u8
+http://103.113.103.249:18001/play/a014/index.m3u8
 
 ///////Indian Bangla
 #EXTINF:-1 tvg-logo="https://megaflix.tv/uploads/tv_image/zee-bangla.png" group-title="INDIAN BANGLA ",ZEE BANGLA
