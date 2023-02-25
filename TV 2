@@ -45,6 +45,7 @@ http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQY
 
 
 ////////Sports T
+#EXTM3U
 
 BTV World 
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8 
@@ -324,7 +325,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 
 ///////Bangla
 
-BTV World 
+#EXTINF:BTV World 
 http://iptvbd.jagobd.com:1931/live-orgin/btvbd-office-sg.stream/chunks.m3u8 
 ATN Islamic TV 
 http://iptvbd.jagobd.com:1931/live-orgin/atnislamictv.stream/chunks.m3u8 
