@@ -5,7 +5,7 @@
 #EXTINF:-1 tvg-logo="https://tvbox-app.com/wp-content/uploads/2022/10/tofee-download-apk.jpg" group-title="SPORTS",TOFFEE 
 https://mprod-cdn.toffeelive.com/ilt20/channel-1/master_1000.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",TOFFEE PREMIUM 
-https://rana-pk.xyz/FAN/LIVE2/play.m3u8?id=1080p
+http://103.113.103.249:18001/play/a006/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
 http://103.109.56.116/live/skyfeed1019/index.m3u8
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS",T SPORTS
