@@ -41,7 +41,7 @@ http://212.224.84.217:2200/R-EX/TEN_SPORTS_PK-in/index.m3u8?token=egBlCndpe3ZiDX
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS", A SPORTS  HD
 http://212.224.84.217:2200/R-EX/PAK_ASPORT-HD-in/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="SPORTS", PTV SPORTS 
-http://212.224.84.217:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+http://59.103.245.153:8000/play/a00c/index.m3u8
 
 
 ////////Sports T
