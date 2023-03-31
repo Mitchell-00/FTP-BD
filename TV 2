@@ -2,10 +2,12 @@
 
 ////////Sports
 
-#EXTINF:-1 tvg-logo="https://ibb.co/SfKCKFc" group-title="SPORTS",TOFFEE 
+#EXTINF:-1 tvg-logo="https://ibb.co/SfKCKFc" group-title="SPORTS",IPL ENGLISH
 https://sports-south-test.jiocinema.com/hls/live/2099764/hd_akamai_ctv_avc_insider_ipl01/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",TOFFEE PREMIUM 
-http://103.113.103.249:18001/play/a006/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",IPL BANGLA 
+https://sports-south-test.jiocinema.com/hls/live/2099771/hd_akamai_ctv_avc_ben_ipl01/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",IPL HINDI
+https://sports-south-test.jiocinema.com/hls/live/2099765/hd_akamai_ctv_avc_hin_ipl01/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",T SPORTS
 https://live.tsports.com/live/live_01_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS",T SPORTS
