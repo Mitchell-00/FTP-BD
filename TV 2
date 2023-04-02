@@ -27,7 +27,7 @@ http://103.109.56.116/live/skyfeed1001/index.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",Sony SPORTS 2
 http://175.41.46.16:8081/hls/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",Star Sports 1 HD
-http://103.109.56.116/live/skyfeed1002/index.m3u8
+http://3.27.107.138/madstream.live/starsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",Sony TEN 3
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",MZ SPORTS 1
