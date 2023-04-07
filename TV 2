@@ -436,7 +436,7 @@ https://tempe.jagobd.com:444/live-orgin/rtv-sg.stream/chunks.m3u8
 //////Hindi
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
-http://103.102.27.172:6464/Channel-7/tracks-v1a1/mono.m3u8
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91915
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" group-title="HINDI",ZEE TV
 https://live.bongobd.com/hls/m06bcc3go5tGBVCt3eBJnQ/1612816941/zee_bangla_cinema_hi/index.m3u8
 ///////Movie
