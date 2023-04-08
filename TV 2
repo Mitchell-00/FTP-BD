@@ -478,4 +478,45 @@ http://otv.ftpbd.net/streams/122/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wpgAVgr.jpg" group-title="CARTOON",CARTOON NETWORK
 http://otv.ftpbd.net/streams/123/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Duronto_TV_logo.jpg" group-title="CARTOON",DURONTO
-http://otv.ftpbd.net/streams/119/index.m3u8....
+http://otv.ftpbd.net/streams/119/index.m3u8
+#EXTINF:-1,IN  STAR SPORT 1 HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/85757
+#EXTINF:-1,IN  STAR SPORT 1-HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91915
+#EXTINF:-1,IN  STAR SPORT 1-HD (TATA)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/118904
+#EXTINF:-1,IN  STAR SPORT 1- 4K
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91925
+#EXTINF:-1,IN  IPL Match 1 UHD English
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/56413
+#EXTINF:-1,IN  STAR SPORT 2 HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/85758
+#EXTINF:-1,IN  STAR SPORT 2-HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91916
+#EXTINF:-1,IN  STAR SPORT 2-HD (TATA)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/118903
+#EXTINF:-1,IN  STAR SPORT 2-4K
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91926
+#EXTINF:-1,IN  STAR SPORT 1 HD (hindi)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/85759
+#EXTINF:-1,IN  STAR SPORT 1-HD (hindi)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/91927
+#EXTINF:-1,IN  STAR SPORT 1-HD (hindi) ( TATA)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/118902
+#EXTINF:-1,IN  STAR SPORT 1-4K (hindi)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/102521
+#EXTINF:-1,IN  IPL Match 1 UHD Hindi
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/56441
+#EXTINF:-1,IN  IPL Match 1 UHD Malayalam 
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/56449
+#EXTINF:-1,IN  IPL Match 1 UHD Punjabi
+#EXTINF:-1,IN  STAR SPORTS SELECT 2-4K
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/108278
+#EXTINF:-1,IN  STAR SPORTS SELECT 1 HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/56363
+#EXTINF:-1,IN  STAR SPORTS SELECT 2 HD
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/56235
+#EXTINF:-1,IN  STAR SPORT 1 HD (Tamil)
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/108265
+#EXTINF:-1,IN || STAR SPORT 3
+http://tv.zaintv.net:80/3mDb2uVAwq/zpWCYZGHIu/92289
