@@ -2,7 +2,7 @@
 
 ////////Sports
 
-#EXTINF:-1 tvg-logo="https://ibb.co/SfKCKFc" group-title="SPORTS",IPL ENGLISH
+#EXTINF:-1 tvg-logo="https://ibb.co/SfKCKFc" group-title="SPORTS",GL T20
 https://live.tsports.com/live/tsports_live_3_1080/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fb/73/17/fb7317879db61a1cf3f512088d4ab59f.jpg" group-title="SPORTS",IPL BANGLA 
 https://live.tsports.com/live/tsports_live_2_1080/index.m3u8
