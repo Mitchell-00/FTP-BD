@@ -36,6 +36,10 @@ http://chanel.dekhaott.com/Tsportshd/index.m3u8
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
 http://172.27.27.3:8088/hls/15_ptv_sports.m3u8
+#EXTINF:-1 tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png" group-title="SPORTS",T SPORTS
+http://stream1.asbd.top:8083/1101/mono.m3u8
+
+
 
 ////////Sports T
 #EXTM3U
