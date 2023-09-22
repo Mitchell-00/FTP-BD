@@ -444,7 +444,7 @@ https://live.bongobd.com/hls/m06bcc3go5tGBVCt3eBJnQ/1612816941/zee_bangla_cinema
 ///////Movie
 
 #EXTINF:-1 tvg-logo="https://download.logo.wine/logo/Sony_Max/Sony_Max-Logo.wine.png" group-title="MOVIE",SONY MAX
-http://otv.ftpbd.net/streams/109/index.m3u8
+https://prod-ent-live-gm.jiocinema.com/hls/live/2099023/hd_akamai_androidmob_avc_ben_odi01/master.m3u8
 #EXTINF:-1 tvg-logo="https://tv.bdtype.com/uploads/tv_image/jalsha-movies.png" group-title="MOVIE",JALSHA MOVIES
 http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkey.com/png/detail/211-2118020_utv-action-utv-action-logo-png.png" group-title="MOVIE",UTV ACTION
