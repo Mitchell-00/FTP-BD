@@ -29,9 +29,9 @@ http://202.125.144.115:8000/play/a00r/index.m3u8
 #EXTINF:-1 tvg-logo="https://i2.wp.com/tsportsbd.com/wp-content/uploads/2020/11/tsportsbd-logo.jpg" group-title="SPORTS",Sony TEN 3
 http://103.55.144.46/hls/sonyten3.m3u8
 #EXTINF:-1 tvg-logo="https://akashdth.com/assets/images/akash-facebook-banner.jpg" group-title="SPORTS",GAZI TV
-http://chanel.dekhaott.com/Gazi-TV/tracks-v1a1/index.m3u8
+http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sssd-1.jpg" group-title="SPORTS",TSPORTS
-http://chanel.dekhaott.com/Tsportshd/index.m3u8
+http://103.175.242.10:8080/live/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-six-hd.png" group-title="SPORTS",A SPORTS
 http://172.27.27.3:8088/hls/06_T-SportsBD.m3u8
 #EXTINF:-1 tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sss-hd2-large.png" group-title="SPORTS",STAR SPORTS SELECT 2 HD
