@@ -1,6 +1,7 @@
 #EXTM3U
 
 ////////Sports
+#EXTINF:0,Planet Fun
 https://freedishbhai.vercel.app/Discovery_Bengali.m3u8
 https://freedishbhai.vercel.app/Discovery_Hindi.m3u8
 https://freedishbhai.vercel.app/Animal_Planet.m3u8
