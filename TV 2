@@ -51,11 +51,197 @@ https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
 Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
+http://103.84.57.155:8000/play/a02c/index.m3u8
+National geographic
+https://cdn1.pishow.tv/live/252/master.m3u8
 
 
 
-
-
+bd 
+#EXTINF:0,Planet Fun
+http://103.84.57.155:8000/play/a0au/index.m3u8
+#EXTINF:0,Disney Chan-Rs8
+http://103.84.57.155:8000/play/a03u/index.m3u8
+#EXTINF:0,Star Sports 3 Rs 4
+http://103.84.57.155:8000/play/a02r/index.m3u8
+#EXTINF:0,PTV-Teleschool
+http://103.84.57.155:8000/play/a0b3/index.m3u8
+#EXTINF:0,Disney Jr.-Rs 4
+http://103.84.57.155:8000/play/a03x/index.m3u8
+#EXTINF:0,DiscoveryScienc-Rs1
+http://103.84.57.155:8000/play/a0bw/index.m3u8
+#EXTINF:0,HISTORY TV18 HD-Rs 7
+http://103.84.57.155:8000/play/a09n/index.m3u8
+#EXTINF:0,MAX HD -Rs 17
+http://103.84.57.155:8000/play/a02b/index.m3u8
+#EXTINF:0,FOX Life HD-Rs 2
+http://103.84.57.155:8000/play/a0ce/index.m3u8
+#EXTINF:0,LTN FAMILY
+http://103.84.57.155:8000/play/a0ay/index.m3u8
+#EXTINF:0,Romedy NOW-Rs 6
+http://103.84.57.155:8000/play/a035/index.m3u8
+#EXTINF:0,MOVIES NO-Rs 10
+http://103.84.57.155:8000/play/a034/index.m3u8
+#EXTINF:0,Sony Ten 3 HD- Rs 17
+http://103.84.57.155:8000/play/a02q/index.m3u8
+#EXTINF:0,SET HD - Rs 19
+http://103.84.57.155:8000/play/a084/index.m3u8
+#EXTINF:0,Sony BBC EarHD-Rs 10
+http://103.84.57.155:8000/play/a09q/index.m3u8
+#EXTINF:0,MTV - Rs 3
+http://103.84.57.155:8000/play/a040/index.m3u8
+#EXTINF:0,Star Sport - Rs19
+http://103.84.57.155:8000/play/a02g/index.m3u8
+#EXTINF:0,Kidzone Pakistan
+http://103.84.57.155:8000/play/a0as/index.m3u8
+#EXTINF:0,DiscoveryTurbo-Rs1
+http://103.84.57.155:8000/play/a0bx/index.m3u8
+#EXTINF:0,BBC WORLD - Rs 1
+http://103.84.57.155:8000/play/a02y/index.m3u8
+#EXTINF:0,Vh1 - Rs 1
+http://103.84.57.155:8000/play/a041/index.m3u8
+#EXTINF:0,PTV-SPORTS-HD
+http://103.84.57.155:8000/play/a0b4/index.m3u8
+#EXTINF:0,PTV-World
+http://103.84.57.155:8000/play/a0b5/index.m3u8
+#EXTINF:0,SIX HD - Rs 19
+http://103.84.57.155:8000/play/a028/index.m3u8
+#EXTINF:0,STAR WOR P HD-Rs9
+http://103.84.57.155:8000/play/a023/index.m3u8
+#EXTINF:0,Sony Ten 4 - Rs 17
+http://103.84.57.155:8000/play/a03r/index.m3u8
+#EXTINF:0,&pictures HD -Rs 19
+http://103.84.57.155:8000/play/a09u/index.m3u8
+#EXTINF:0,SONIC- Rs 2
+http://103.84.57.155:8000/play/a03y/index.m3u8
+#EXTINF:0,STAR BHARAT HD-Rs 19
+http://103.84.57.155:8000/play/a09k/index.m3u8
+#EXTINF:0,MARVEL HQ- Rs 4
+http://103.84.57.155:8000/play/a03w/index.m3u8
+#EXTINF:0,nick HD+- Rs 10http://192.168.2.254:8000/#
+http://103.84.57.155:8000/play/a0a4/index.m3u8
+#EXTINF:0,Star Sports1 Kan Rs19 
+http://103.84.57.155:8000/play/a06x/index.m3u8
+#EXTINF:0,Evergreen Classics-Rs45
+http://103.84.57.155:8000/play/a0ca/index.m3u8
+#EXTINF:0,Discovery HD-Rs6
+http://103.84.57.155:8000/play/a00y/index.m3u8
+#EXTINF:0,Insight TV
+http://103.84.57.155:8000/play/a0aw/index.m3u8
+#EXTINF:0,Star Spo 1 HD-Rs19
+http://103.84.57.155:8000/play/a025/index.m3u8
+
+#EXTM3U
+#EXTINF:0,CNN INTL - 50p
+http://103.84.57.155:8000/play/a02x/index.m3u8
+#EXTINF:0,Star Sports-Rs7
+http://103.84.57.155:8000/play/a02k/index.m3u8
+#EXTINF:0,Star GOLD HD -Rs 10
+http://103.84.57.155:8000/play/a09m/index.m3u8
+#EXTINF:0,Star Sports S 2 HD-Rs 10
+http://103.84.57.155:8000/play/a09z/index.m3u8
+#EXTINF:0,DISCOVERY K-Rs3
+http://103.84.57.155:8000/play/a050/index.m3u8
+#EXTINF:0,PTV-NEWS HD
+http://103.84.57.155:8000/play/a0b2/index.m3u8
+#EXTINF:0,TLC HD- Rs3
+http://103.84.57.155:8000/play/a00s/index.m3u8
+#EXTINF:0,MNX - Rs 6
+http://103.84.57.155:8000/play/a030/index.m3u8
+#EXTINF:0,Colors HD-Rs 19
+http://103.84.57.155:8000/play/a082/index.m3u8
+#EXTINF:0,&flix HD-Rs 19
+http://103.84.57.155:8000/play/a083/index.m3u8
+#EXTINF:0,MN+ HD-Rs 10
+http://103.84.57.155:8000/play/a08s/index.m3u8
+#EXTINF:0,National G HD-Rs10
+http://103.84.57.155:8000/play/a00x/index.m3u8
+#EXTINF:0,Star Spo 2 HD- Rs19
+http://103.84.57.155:8000/play/a026/index.m3u8
+#EXTINF:0,Star Sport-Rs19
+http://103.84.57.155:8000/play/a02d/index.m3u8
+#EXTINF:0,Nick Jr. - Rs1
+http://103.84.57.155:8000/play/a042/index.m3u8
+#EXTINF:0,Pogo - Rs 4.25
+http://103.84.57.155:8000/play/a03z/index.m3u8
+#EXTINF:0,ZEE CINEMA HD-Rs 19
+http://103.84.57.155:8000/play/a09j/index.m3u8
+#EXTINF:0,Star Sport- Rs19
+http://103.84.57.155:8000/play/a02e/index.m3u8
+#EXTINF:0,Star Gold 2- Rs 2
+http://103.84.57.155:8000/play/a0c9/index.m3u8
+#EXTINF:0,ZEE Cafe HD - Rs19
+http://103.84.57.155:8000/play/a08r/index.m3u8
+#EXTINF:0,nick - Rs 6
+http://103.84.57.155:8000/play/a03v/index.m3u8
+#EXTINF:0,Star Plus HD -Rs 19
+http://103.84.57.155:8000/play/a080/index.m3u8
+#EXTINF:0,PTV-FEED
+http://103.84.57.155:8000/play/a0b6/index.m3u8
+#EXTINF:0,CARTOON-Rs4.25
+http://103.84.57.155:8000/play/a04t/index.m3u8
+#EXTINF:0,MTV Beats- 10p
+http://103.84.57.155:8000/play/a045/index.m3u8
+#EXTINF:0,Sony Ten 1 HD- Rs 19
+http://103.84.57.155:8000/play/a027/index.m3u8
+#EXTINF:0,Movie One
+http://103.84.57.155:8000/play/a0ax/index.m3u8
+#EXTINF:0,Filmax
+http://103.84.57.155:8000/play/a0az/index.m3u8
+#EXTINF:0,POP Kids HD
+http://103.84.57.155:8000/play/a0at/index.m3u8
+#EXTINF:0,NAT Geo Wild HD-Rs 5
+http://103.84.57.155:8000/play/a02c/index.m3u8
+#EXTINF:0,ZEE TV HD-Rs 19
+http://103.84.57.155:8000/play/a081/index.m3u8
+#EXTINF:0,Star Gold Thrills- Rs 2
+http://103.84.57.155:8000/play/a0c7/index.m3u8
+#EXTINF:0,Star Sports S 1 HD-Rs 19
+http://103.84.57.155:8000/play/a09y/index.m3u8
+#EXTINF:0,Star Sport-Rs17
+http://103.84.57.155:8000/play/a02p/index.m3u8
+#EXTINF:0,Star Gold SelHD-Rs 10
+http://103.84.57.155:8000/play/a09p/index.m3u8
+#EXTINF:0,STAR WORLD HD -Rs9
+http://103.84.57.155:8000/play/a024/index.m3u8
+#EXTINF:0,Star Sports1 Kan Rs19 
+http://103.84.57.155:8000/play/a02s/index.m3u8
+#EXTINF:0,Capital TV
+http://103.84.57.155:8000/play/a0cm/index.m3u8
+#EXTINF:0,PTV-Home
+http://103.84.57.155:8000/play/a0b1/index.m3u8
+#EXTINF:0,SONY SAB - Rs 19
+http://103.84.57.155:8000/play/a0a8/index.m3u8
+#EXTINF:0,&PRIVE HD-Rs 19
+http://103.84.57.155:8000/play/a0a6/index.m3u8
+#EXTINF:0,INPLUS Pakistan
+http://103.84.57.155:8000/play/a0cn/index.m3u8
+#EXTINF:0,&flix - Rs 15
+http://103.84.57.155:8000/play/a033/index.m3u8
+#EXTINF:0,Planet Fun
+http://103.84.57.155:8000/play/a0cl/index.m3u8
+#EXTINF:0,Champions TV
+http://103.84.57.155:8000/play/a0av/index.m3u8
+#EXTINF:0,ANIMAL PLAN HD-Rs 3
+http://103.84.57.155:8000/play/a09l/index.m3u8
+#EXTINF:0,Kidzone Pakistan
+http://103.84.57.155:8000/play/a0ck/index.m3u8
+#EXTINF:0,STAR MOV HD-Rs 19
+http://103.84.57.155:8000/play/a00v/index.m3u8
+#EXTINF:0,SONY MAX 2 - Rs 1
+http://103.84.57.155:8000/play/a0cc/index.m3u8
+#EXTINF:0,Star Gold Romance- Rs 2
+http://103.84.57.155:8000/play/a0c8/index.m3u8
+#EXTINF:0,Sony Ten 2 HD- Rs 17
+http://103.84.57.155:8000/play/a0a0/index.m3u8
+#EXTINF:0,StarMov S HD-Rs 10
+http://103.84.57.155:8000/play/a00w/index.m3u8
+#EXTINF:0,PIX HD - Rs 15
+http://103.84.57.155:8000/play/a09t/index.m3u8
+#EXTINF:0,DISCOVERY K-Rs3
+http://103.84.57.155:8000/play/a044/index.m3u8
+#EXTINF:0,hungama tv-Rs 6
+http://103.84.57.155:8000/play/a03t/index.m3u8
 
 
 
@@ -69,47 +255,3 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",SET HD
 https://dai.google.com/linear/hls/event/dBdwOiGaQvy0TA1zOsjV6w/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20SAB%20HD_WHITE.png" group-title="SONYLIV",Sony SAB HD
-https://dai.google.com/linear/hls/event/CrTivkDESWqwvUj3zFEYEA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20PAL.png" group-title="SONYLIV",Sony PAL
-https://dai.google.com/linear/hls/event/dhPrGRwDRvuMQtmlzppzQQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20YAY.png" group-title="SONYLIV",Sony YAY
-https://dai.google.com/linear/hls/event/GPY7RqOrSkmKJ8z1GbVNhg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MARATHI.png" group-title="SONYLIV",Sony Marathi
-https://dai.google.com/linear/hls/event/I2phC6tgTDuJngxw9gJgPw/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY%20AATH.png" group-title="SONYLIV",Sony AATH
-https://dai.google.com/linear/hls/event/j-YEIDwORxubtP_967VcZg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX-HD_WHITE.png" group-title="SONYLIV",Sony MAX HD
-https://dai.google.com/linear/hls/event/UcjHNJmCQ1WRlGKlZm73QA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX.png" group-title="SONYLIV",Sony MAX
-https://dai.google.com/linear/hls/event/Oc1isQAET3WaNPoABfScmg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_WAH.png" group-title="SONYLIV",Sony WAH
-https://dai.google.com/linear/hls/event/gX5rCBf6Q7-D5AWY-sovzQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/Sony_MAX2.png" group-title="SONYLIV",Sony MAX2
-https://dai.google.com/linear/hls/event/MdQ5Zy-PSraOccXu8jflCg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-title="SONYLIV",Sony PIX HD
-https://dai.google.com/linear/hls/event/x7rXWd2ERZ2tvyQWPmO1HA/master.m3u8
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-title="SONYLIV",Sony BBC Earth HD
-https://dai.google.com/linear/hls/event/6bVWYIKGS0CIa-cOpZZJPQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 1 HD
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="SONYLIV",Sony  TEN 2 HD
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 3 HD
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
-#EXTINF: -1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 4 HD
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="SONYLIV",Sony TEN 5 HD
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6e/Sony_Kal_Logo.jpeg" group-title="SONYLIV",Sony Kal
-https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
