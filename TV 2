@@ -275,5 +275,21 @@ http://103.84.57.155:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",TNT 1
 http://gcp-dash.ngslbs.com/TVD001/index.mpd
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",CRICBUZZ
-https://live2.shoq.com.pk/live/eds/Criclife2/DASH/Criclife2.mpd?|drmScheme=clearkey&drmLicense=4301796d6d67374043c4a43c18dff7ea:96a3dc8766317aa169149a604928ebb6
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",TNT 2
+http://gcp-dash.ngslbs.com/TVD002/index.mpd
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",TNT 3
+http://gcp-dash.ngslbs.com/TVD003/index.mpd
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",TNT 4
+http://gcp-dash.ngslbs.com/TVD004/index.mpd
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SKY CRICKET
+http://gcp-dash.ngslbs.com/TVD024/index.mpd
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",SPORTS 18
+http://172.17.50.112/live/fifa2022/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR SPORTS 1 
+http://172.17.50.112/live/antbd1001/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS 
+http://172.17.50.112/live/antbd1002/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR J
+http://172.17.50.112/live/antbd1003/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR MOVIES
+http://172.17.50.112/live/antbd1004/index.m3u8
