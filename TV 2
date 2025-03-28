@@ -17,12 +17,39 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 http://103.122.74.6:8888/hls/ZEE.BANGLA.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR J
 http://103.122.74.6:8888/hls/STAR.JALSHA.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR J movies
+http://103.122.74.6:8888/hls/JALSHA.MOVIES.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", Sony ATH
+http://103.122.74.6:8888/hls/SONY.AAT.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", NAGORIK
+http://103.122.74.6:8888/hls/NAGORIK.TV.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", GTV
+http://103.122.74.6:8888/hls/GAZI.TV.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", DISCOVERY
+http://103.122.74.6:8888/hls/DISCOVERY.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",COLORS BANGLA
+http://103.122.74.6:8888/hls/COLORS.BANGLA.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SUN BANGLA
+http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", TRAVEL XP
+http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", DURANTA
+http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
+
+
+
+
+
+
+
+
+
+
+
 ////////SONY  NETWORK
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SKY CRICKET
-http://gcp-dash.ngslbs.com/TVD024/index.mpd
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",STAR SPORTS 2
 http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR SPORTS 1 
@@ -41,5 +68,41 @@ https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS 
 http://38.96.178.201/live/TSports/index.m3u8
-
-
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS 
+http://103.122.74.6:8888/hls/tsports.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",STAR SPORTS 3
+http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR SPORTS S1 
+http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR SPORTS S2 
+http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY TEN 2
+http://103.122.74.6:8888/hls/sony10.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY TEN 5
+http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY TEN 3
+http://103.122.74.6:8888/hls/SONY.SPORTS.3.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY TEN 1
+http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", EURO SPORTS
+http://103.122.74.6:8888/hls/EUROSPORTS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", WILLOW
+http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SKY CRICKET
+http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SUPER CRICKET
+http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ASTRO CRICKET
+http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", PREMIER SPORTS
+http://103.122.74.6:8888/hls/PREMER.SPORTS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", PAPER TV
+http://103.122.74.6:8888/hls/THE.PAPARE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", GOLF
+http://103.122.74.6:8888/hls/GOLF.SPORTS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 1
+http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 2
+http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 3
+http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
