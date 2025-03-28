@@ -3,7 +3,7 @@
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",LOVE NATURE 4K UHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",Discovery asia
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",ADVENTURE EARTH
 https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",Travel XP English
 https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -35,13 +35,112 @@ http://103.122.74.6:8888/hls/SUN.BANGLA.HD.m3u8
 http://103.122.74.6:8888/hls/TRAVELXP.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", DURANTA
 http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
-
-
-
-
-
-
-
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ROMEDY NOW
+http://103.122.74.6:8888/hls/ROMEDY.NOW.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", NAT GEO
+http://103.122.74.6:8888/hls/NATGEO.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", TLC
+http://103.122.74.6:8888/hls/TLC.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ANIMAL PLANAT
+http://103.122.74.6:8888/hls/ANIMAL.PLANET.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", PIX
+http://103.122.74.6:8888/hls/SONY.PIX.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", MNX
+http://103.122.74.6:8888/hls/MNX.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", MOVIES NOW
+http://103.122.74.6:8888/hls/MOVIES.NOW.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BBC EARTH
+http://103.122.74.6:8888/hls/BBC.Earth.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", MN PLUS
+http://103.122.74.6:8888/hls/MN.PLUS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BBC
+http://103.122.74.6:8888/hls/BBC.NEWS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", TURBO 
+http://103.122.74.6:8888/hls/DISCOVARY.TURBO.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", CNN
+http://103.122.74.6:8888/hls/CNN.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", AXN
+http://103.122.74.6:8888/hls/AXN.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", HITZ
+http://103.122.74.6:8888/hls/HITZ.MUSIC.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", HBO
+http://103.122.74.6:8888/hls/HBO.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY BBC
+http://103.122.74.6:8888/hls/SONY.BBC.EARTH.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAT MOVIES
+http://103.122.74.6:8888/hls/STAR.MOVIES.SEL.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", AND FLIX
+http://103.122.74.6:8888/hls/AND.FLIX.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZEE CAFE
+http://103.122.74.6:8888/hls/ZEE.CAFE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR MOIES SELECT
+http://103.122.74.6:8888/hls/COLOR.INFINITY.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", AND PRIVATE
+http://103.122.74.6:8888/hls/AND.PRIVE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ID
+http://103.122.74.6:8888/hls/ID.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", DISNEY
+http://103.122.74.6:8888/hls/DISNEY.INT.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", CNBC
+http://103.122.74.6:8888/hls/CNBC.NEWS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BBC LIFE
+http://103.122.74.6:8888/hls/BBC.LIFESTYLE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", HBO HITZ
+http://103.122.74.6:8888/hls/HBO.HITS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ROCK
+http://103.122.74.6:8888/hls/ROCK.ENT.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", LOVE NATURE
+http://103.122.74.6:8888/hls/LOVE.NATURE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR GOLD
+http://103.122.74.6:8888/hls/STAR.GOLD.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", COLORS
+http://103.122.74.6:8888/hls/COLORS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", COLORS CINEPLX
+http://103.122.74.6:8888/hls/COLORS.CINEPLEX.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY MAX
+http://103.122.74.6:8888/hls/SONY.MAX.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STRA MOVIES
+http://103.122.74.6:8888/hls/STAR.MOVIES.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SONY 
+http://103.122.74.6:8888/hls/SONY.ENT.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", AND PICTURERS
+http://103.122.74.6:8888/hls/ANT.PICTURS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZEE TV
+http://103.122.74.6:8888/hls/ZEE.TV.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZEE CINEMA
+http://103.122.74.6:8888/hls/ZEE.CINEMA.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR PLUS
+http://103.122.74.6:8888/hls/STAR.PLUS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", NAT GEO WILD
+http://103.122.74.6:8888/hls/NATGEO.WILD.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZOOM MUSIC
+http://103.122.74.6:8888/hls/ZOOM.MUSIC.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZING
+http://103.122.74.6:8888/hls/ZING.MUSIC.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR GOLD
+http://103.122.74.6:8888/hls/STAR.GOLD.2HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", XPLOER
+http://103.122.74.6:8888/hls/XPLOR.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR GOLD SELECT
+http://103.122.74.6:8888/hls/STAR.GOLD.SEL.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", HISTORY 18
+http://103.122.74.6:8888/hls/HISTORY.TV.18.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR BAHARAT
+http://103.122.74.6:8888/hls/STAR.BARAT.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STRA LIFE
+http://103.122.74.6:8888/hls/STAR.LIFE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", U TV
+http://103.122.74.6:8888/hls/UTV.BINDASS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", ZOOM
+http://103.122.74.6:8888/hls/ZOOM.MUSIC.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR USHOV
+http://103.122.74.6:8888/hls/UTSHOV.GOLD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", MTV BETAS
+http://103.122.74.6:8888/hls/MTV.BEATS.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", MTV
+http://103.122.74.6:8888/hls/MTV.LIVE.HD.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", CINEMAX
+http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
 
 
 
@@ -49,21 +148,16 @@ http://103.122.74.6:8888/hls/DURANTA.TV.HD.m3u8
 ////////SONY  NETWORK
 
 #EXTM3U
-
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS
+http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",STAR SPORTS 2
 http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR SPORTS 1 
 http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS 
 http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", STAR MOVIES
-http://172.17.50.112/live/antbd1004/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", A SPORTS
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", CRIC AU
-https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SPORTS MAX
-https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", A SPORTS 
 http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", T SPORTS 
@@ -100,9 +194,13 @@ http://103.122.74.6:8888/hls/PREMER.SPORTS.HD.m3u8
 http://103.122.74.6:8888/hls/THE.PAPARE.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", GOLF
 http://103.122.74.6:8888/hls/GOLF.SPORTS.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", SPORTS MAX
+https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 1
 http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 2
 http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", BEIN SPORTS 3
 http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV", CRIC AU
+https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
