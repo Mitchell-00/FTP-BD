@@ -149,24 +149,14 @@ http://103.122.74.6:8888/hls/CINEMAX.HD.m3u8
 
 #EXTM3U
 
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS",STAR SPORTS 2
-http://103.122.74.6:8888/hls/STAR.SPORTS2.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", STAR SPORTS 1 
-http://103.122.74.6:8888/hls/STAR.SPORTS1.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
-http://103.122.74.6:8888/hls/T-SPORTS-HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", A SPORTS
 http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", A SPORTS 
 http://38.96.178.201/live/ASports/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
 http://38.96.178.201/live/TSports/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
-http://103.122.74.6:8888/hls/tsports.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS
 http://kst.moonplex.net:8080/CH2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS",STAR SPORTS 3
-http://103.122.74.6:8888/hls/STAR-SPORTS.3.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", STAR SPORTS S1 
 http://103.122.74.6:8888/hls/STAR.SPORTS-SEL1.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", STAR SPORTS S2 
@@ -183,28 +173,14 @@ http://103.122.74.6:8888/hls/SONY.SPORTS.1HD.m3u8
 http://103.122.74.6:8888/hls/EUROSPORTS.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", WILLOW
 http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", WILLOW 2
-https://m3u8.cloudycx.net/media/hls/files/1080p.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SKY CRICKET
 http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SUPER CRICKET
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", ASTRO CRICKET
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", PREMIER SPORTS
-http://103.122.74.6:8888/hls/PREMER.SPORTS.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", PAPER TV
-http://103.122.74.6:8888/hls/THE.PAPARE.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", GOLF
-http://103.122.74.6:8888/hls/GOLF.SPORTS.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SPORTS MAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", BEIN SPORTS 1
-http://103.122.74.6:8888/hls/BEINSPORTS.1.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", BEIN SPORTS 2
-http://103.122.74.6:8888/hls/BEINSPORTS.2.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", BEIN SPORTS 3
-http://103.122.74.6:8888/hls/BEIN.SPORT.3.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", CRIC AU
 https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 
