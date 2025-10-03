@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
-http://161.248.189.119/T_SPORTS_BY_bdixiptvbd.com/index.m3u8
+http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 2
+http://116.204.149.16/t_sports/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", Lemar Tv 
+http://ip96.uk:8080/live/2222/2222/333335.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", Nagorik TV
+http://103.175.242.10:8080/nagorik/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 5
+http://103.175.242.10:8080/sonyten5/index.m3u8
+
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",LOVE NATURE 4K FHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",LOVE NATURE 4K UHD
@@ -166,7 +175,7 @@ http://103.122.74.6:8888/hls/STAR.SPORTS.SEL.2.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 2
 http://103.122.74.6:8888/hls/sony10.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 5
-http://103.122.74.6:8888/hls/SONY-SPORTS.5HD.m3u8
+http://103.175.242.10:8080/sonyten5/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 3
 http://103.122.74.6:8888/hls/SONY.SPORTS.3.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 1
@@ -183,6 +192,4 @@ http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SPORTS MAX
 https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", CRIC AU
-https://play.thebosstv.com:30443/live/in_stream_abr/playlist.m3u8
 
