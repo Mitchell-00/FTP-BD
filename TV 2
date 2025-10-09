@@ -3,8 +3,8 @@
 http://103.175.242.10:8080/tsports1/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 2
 http://116.204.149.16/t_sports/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", Lemar Tv 
-http://ip96.uk:8080/live/2222/2222/333335.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 3
+http://147.93.154.65/Bein3/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", Nagorik TV
 http://103.175.242.10:8080/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 5
