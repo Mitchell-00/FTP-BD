@@ -9,6 +9,8 @@ http://147.93.154.65/Bein3/index.m3u8
 http://103.175.242.10:8080/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 5
 http://103.175.242.10:8080/sonyten5/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", TEN SPORTS
+http://144.217.76.135:8082/sami/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",LOVE NATURE 4K FHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -190,6 +192,5 @@ http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", ASTRO CRICKET
 http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SPORTS MAX
-https://streamer1.nexgen.bz/SPORTSMAX/tracks-v1a1/mono.m3u8
+
 
