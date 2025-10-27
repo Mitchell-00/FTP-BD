@@ -10,7 +10,7 @@ http://103.175.242.10:8080/nagorik/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SONY TEN 5
 http://103.175.242.10:8080/sonyten5/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", TEN SPORTS
-http://144.217.76.135:8082/sami/index.m3u8
+https://bd-mc-fdlive.fancode.com/mumbai/137703_english_hls_522cde4f9877496ta-di_h264/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SONYLIV",LOVE NATURE 4K FHD
 http://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
