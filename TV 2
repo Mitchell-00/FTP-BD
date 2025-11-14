@@ -70,8 +70,8 @@ http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
 
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", A SPORTS
 https://saseries.akamaized.net/hls/live/2110097/tappak/hdntl=exp=1763126368~acl=%2f*~data=hdntl~hmac=2eb02c0443b0b57d18548886850461341bbaa109ebeb0ba955c16d42225ddc5b/level_0.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", A SPORTS 
-http://38.96.178.201/live/ASports/index.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", A SPORTS 2 
+https://saseries.akamaized.net/hls/live/2110097/T56A87p03/hdntl=exp=1763197798~acl=%2f*~data=hdntl~hmac=09e8cc819b30c2ae789a3885800fbc6b6546f03740ff57408db9be81ab289761/level_0.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
 http:/161.248.189.119/T_SPORTS_BY_bdixiptvbd.com/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS
