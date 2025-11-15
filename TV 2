@@ -152,7 +152,7 @@ http://103.122.74.6:8888/hls/WILLOW.HD.m3u8
 http://103.122.74.6:8888/hls/SKY.SPORTS.CRICKET.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", SUPER CRICKET
 http://103.122.74.6:8888/hls/SUPER.CRICKET.HD.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", ASTRO CRICKET
-http://103.122.74.6:8888/hls/ASTRO.CRICKET.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", PTV
+http://66.102.120.18:8000/play/a04w/index.m3u8
 
 
