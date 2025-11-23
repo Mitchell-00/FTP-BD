@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 
 http://103.240.44.26/T-Sports-HD/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 2
-http://103.135.132.54:805/tsport/index.m3u8
+http://103.135.132.54:88/tsportshd/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", T SPORTS 3
 https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", Nagorik TV
