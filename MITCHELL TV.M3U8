@@ -1,6 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports 
 http://103.89.248.26:8082/2LIVE/index.m3u8?token=b73e8787238f191d204e8ca825b5711080b6f183-9108b62d4f5937fef60a69bdc0bea0b5-1764196875-1764186075
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports 1
+http://103.89.248.22:8082/1LIVE/m3u8?token=86d57b515caccbdd83fad91855bb4342e771c0f9-0ca09650291b18ffd10feb96f583d0e6-1764196867-1764186067
+
 
 
 
