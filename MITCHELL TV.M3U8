@@ -1,11 +1,20 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports 
-http://103.89.248.26:8082/2LIVE/index.m3u8?token=b73e8787238f191d204e8ca825b5711080b6f183-9108b62d4f5937fef60a69bdc0bea0b5-1764196875-1764186075
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",t sports 1
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE 1
 http://103.89.248.22:8082/1LIVE/index.m3u8?token=86d57b515caccbdd83fad91855bb4342e771c0f9-0ca09650291b18ffd10feb96f583d0e6-1764196867-1764186067
-
-
-
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE 2 
+http://103.89.248.26:8082/2LIVE/index.m3u8?token=b73e8787238f191d204e8ca825b5711080b6f183-9108b62d4f5937fef60a69bdc0bea0b5-1764196875-1764186075
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE CRICKET 1
+http://103.89.248.26:8082/LIVE-CRICKET/index.m3u8?token=8f8cab08315271a9e603890aed9543d1b655f18e-653e1d7e97c3ad331b6d0286d550a2d9-1764198514-1764187714
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE CRICKET 2
+http://103.89.248.22:8082/LIVE-CRICKET-1/index.m3u8?token=7987c5168ba6320c2f70ac3a3aa898296a4c7b66-532be66a1060cc21ab1c3e1ace805f6c-1764197959-1764187159
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE FOOTBALL 1
+http://103.89.248.30:8082/LIVE-FOOTBALL/index.m3u8?token=c5dc391f245ebed2184fc9d322b558c3c8b9594e-1cb33c2c4537d31b99a74f1acaeba8dd-1764198775-1764187975
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE FOOTBALL 2
+http://103.89.248.30:8082/LIVE-FOOTBALL-1/index.m3u8?token=042c36c822c4138b314b64fca2495e41fdf58952-c7b5e13ea618bfca3c92663c1a146492-1764198854-1764188054
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",LIVE FOOTBALL 3
+http://103.89.248.30:8082/LIVE-FOOTBALL-2/index.m3u8?token=18038070402796655ee178c89070e3058c5caf74-8052e071300c03182e59229da161caa6-1764198915-1764188115
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",T SPORTS
+http://103.166.152.22:8080/roarzone/edge2/tsports/mono.m3u8?token=fad13cf2a0f41f9cf941355590cf943f41a41ae7-50df604c9f62d1471e8f3d945ea2851f-1764199162-1764188362
 
 
 
