@@ -15,7 +15,14 @@ http://103.89.248.30:8082/LIVE-FOOTBALL-1/index.m3u8?token=042c36c822c4138b314b6
 http://103.89.248.30:8082/LIVE-FOOTBALL-2/index.m3u8?token=18038070402796655ee178c89070e3058c5caf74-8052e071300c03182e59229da161caa6-1764198915-1764188115
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",T SPORTS
 http://103.166.152.22:8080/roarzone/edge2/tsports/mono.m3u8?token=fad13cf2a0f41f9cf941355590cf943f41a41ae7-50df604c9f62d1471e8f3d945ea2851f-1764199162-1764188362
-
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",STAR SPORTS 1
+http://103.89.248.22:8082/STAR-SPORTS-1/index.m3u8?token=a5671797e7a0490cdcce061fa23e98da387f8dec-3adb4fcb336a9d1158d30b2860237a7d-1764199012-1764188212
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",STAR SPORTS 2
+http://103.89.248.30:8082/STAR-SPORTS-2/index..m3u8?token=53dc44219fc569985063ea299128f4000c8f7451-2d645ac11f65303607bb1ea4f96ee6f1-1764199831-1764189031
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",A SPORTS
+http://103.89.248.22:8082/A-SPORTS/index.m3u8?token=0fb85adc6bd2cfc5a387146ad3a3df5cd78112e9-7ffac4bc0456287b66feae8eae44f6f7-1764198872-1764188072
+#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/102.png" group-title="sports",PTV SPORTS
+http://103.89.248.26:8082/PTV/index.m3u8?token=f2ab96a1d0845a94f4a4c0edecbea10168c65ef9-bc3b1810436a3b9c0508c16e9d948674-1764199728-1764188928
 
 
 
