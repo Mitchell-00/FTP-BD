@@ -9,8 +9,8 @@ https://live.matribhumitv.com/matribhumi-sports/index.m3u8
 http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS",WIllOW SPORTS
 http://198.195.239.50:8095/WiLLow/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", FOX CRICKET
-https://foxenglish.pages.dev/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", STAR SPORTS 1
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", FOX CRICKET 2
 https://foxhindi.pages.dev/playlist.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="https://sonypicturesnetworks.com/images/logos/SET-LOGO-HD.png" group-title="SPORTS", FOX
